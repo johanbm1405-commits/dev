@@ -12,7 +12,7 @@ To get started, make sure you are running [node.js](https://nodejs.org/) version
 
 to clone the packages that make up the system, install dependencies, and build the packages. At any time you can rebuild packages, either by running `npm run prepare` in their subdirectory, or all at once with
 
-    node bin/cm.js build. 
+    node bin/cm.js build.  
 
 Developing is best done by setting up
 
