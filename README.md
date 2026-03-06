@@ -14,7 +14,7 @@ to clone the packages that make up the system, install dependencies, and build t
 
     node bin/cm.js build.  
 
-Developing is best done by setting up
+Developing is best done by setting up 
 
     npm run dev
 
